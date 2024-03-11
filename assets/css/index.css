@@ -1,0 +1,20 @@
+p{
+    color: black;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#two > .content .full{
+    width: 100%;
+    padding: 0px 25%;
+}
+
+#two > .content .aa{
+    color: rgb(78, 156, 161);
+}
+.spotlight alt{
+    background-color: white;
+}
