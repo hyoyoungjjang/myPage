@@ -15,6 +15,6 @@ a {
 #two > .content .aa{
     color: rgb(78, 156, 161);
 }
-.spotlight alt{
+.spotlight.alt{
     background-color: white;
 }
